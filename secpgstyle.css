@@ -1,1 +1,30 @@
-
+h1 {
+  color: #DBAFC1;
+    font-size: 60px;
+  text-align: center;
+}
+body {
+  background-color: #E7C8DD;
+}
+nav {
+  list-stye=le-type: none;
+  position: fixed;
+  background-color: #E2E4F6;
+width: 100vw;
+  top: 0;
+  left: 0;
+padding: 20px;
+  color: #DBAFC1;
+}
+1i  {
+  display: inline;
+  padding: 300px;
+}
+  a {
+    text-decoration: none;
+    color: #DBAFC1;
+  }
+a:hover {
+  background-color: #DEFFFC;
+  padding: 15px
+}
