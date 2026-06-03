@@ -1,3 +1,39 @@
+h1 {
+  color: #86626E;
+  font-size: 60px;
+  text-align: center;
+}
 body {
-
+  background-color: #DBAFC1;
+}
+img {
+  width: 15%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+  padding: 20px 20px;
+}
+img:hover {
+  width: 25%;}
+nav {
+  list-style-type: none;
+  position: fixed;
+  background-color: #DEFFFC;
+width: 100vw;
+  top: 0;
+  left: 0;
+padding: 20px;
+color: ##86626E;
+}
+li {
+  display: inline;
+  padding: 300px;
+}
+  a {
+    text-decoration: none;
+    color: #86626E;
+  }
+a:hover {
+  background-color: #E2E4F6;
+  padding: 15px
 }
